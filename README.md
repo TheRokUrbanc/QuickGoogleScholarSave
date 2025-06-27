@@ -43,10 +43,10 @@ For example, if your interface is English, you might set:
 const label1 = 'phd';      // you need to create this at first save as tag in my library
 const label2 = 'completed';
 const nextPageText = 'next';
+```
 
 
-
-
+```javascript
 
 
 javascript:(async()=>{
