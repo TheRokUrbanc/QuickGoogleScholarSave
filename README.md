@@ -1,6 +1,7 @@
 # ScholarSaver
 
-A lightweight JavaScript bookmarklet that automates saving Google Scholar search results by clicking the “Save” buttons, applying custom label filters (like “doktorat” and “končano”), and navigating through pages automatically. Easily customizable for different languages by adjusting label texts. Ideal for quickly batch-saving and filtering scholarly articles over multiple pages.
+A lightweight JavaScript bookmarklet that automates saving Google Scholar search results by clicking the “Save” buttons, applying custom tag filters (like “doktorat” ), and navigating through pages automatically. Easily customizable for different languages by adjusting label texts. Ideal for quickly batch-saving and filtering scholarly articles over multiple pages.
+Currently you need to click for each page on bookmark.
 
 ---
 
